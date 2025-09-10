@@ -1,16 +1,19 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Identitas Pribadi</title>
   <style>
-    h1 {
+    h1, h2 {
       color: pink;
     }
-    h2 {
-      color: pink;
-    }
+   .kotak {
+      border: 2px solid black;   /* garis kotak */
+      padding: 10px;             /* jarak isi dengan kotak */
+      margin: 10px 0;            /* jarak antar elemen */
+      border-radius: 8px;        /* sudut kotak melengkung */
+      background-color: #f9f9f9; /* warna latar belakang */
   </style>
 </head>
 <body>
@@ -26,9 +29,9 @@
 
   <h2>Hobi</h2>
   <ul>
-    <li>[Hobi 1]</li>
-    <li>[Hobi 2]</li>
-    <li>[Hobi 3]</li>
+    <li>Travelling</li>
+    <li>Bermain Game</li>
+    <li>Memasak/li>
   </ul>
 
 </body>

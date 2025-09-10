@@ -1,2 +1,34 @@
-# identitas
-web
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Identitas Pribadi</title>
+  <style>
+    h1 {
+      color: pink;
+    }
+    h2 {
+      color: pink;
+    }
+  </style>
+</head>
+<body>
+  <h1>Identitas Pribadi</h1>
+
+  <p><strong>Nama:</strong> Tirta Widyadari</p>
+  <p><strong>NIM:</strong> H021231018</p>
+  <p><strong>Program Studi:</strong> Fisika</p>
+  <p><strong>Fakultas & Universitas:</strong> FMIPA, Universitas Hasanuddin</p>
+  <p><strong>Email:</strong> trtawdydri.05@email.com</p>
+  <p><strong>No. HP:</strong> 085341947337</p>
+  <p><strong>Alamat:</strong> Jalan Sakinah Bawah Selatan</p>
+
+  <h2>Hobi</h2>
+  <ul>
+    <li>Travelling</li>
+    <li>Bermain Game</li>
+  </ul>
+
+</body>
+</html>
